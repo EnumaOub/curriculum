@@ -83,6 +83,8 @@ Let's review the dangers we've addressed so far. I know, I know, it's scary stuf
 1. Read [think-like-a-git](http://think-like-a-git.net/)
     - Take your time with this resource as well, it's very well written and will be very helpful in solidifying your understanding of Git.
 
+1. Read [github-fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+    - How to fork with github.
 </div>
 
 ### Knowledge check
